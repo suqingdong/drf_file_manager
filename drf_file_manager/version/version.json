@@ -1,0 +1,8 @@
+{
+    "prog": "drf_file_manager",
+    "desc": "File Manager Application for DjangoRestFramework",
+    "url": "https://github.com/suqingdong/drf_file_manager",
+    "author": "suqingdong",
+    "author_email": "suqingdong1114@gmail.com",
+    "version": "1.0.0"
+}
