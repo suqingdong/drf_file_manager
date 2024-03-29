@@ -47,3 +47,6 @@ urlpatterns += [
 - `DELETE /api/file/{id}/` - Delete a file
 
 - `POST /api/file/clean/` - Delete all files
+
+#### preview
+![](https://suqingdong.github.io/drf_file_manager/src/api-docs.png)
